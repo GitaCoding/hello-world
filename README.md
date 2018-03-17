@@ -1,2 +1,6 @@
 # hello-world
-This it my first repository here. Later to be detailed.
+Hi there.
+
+I am new here and I hope this will be an epic experience.
+
+Gita
